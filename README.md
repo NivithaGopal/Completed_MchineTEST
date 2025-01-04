@@ -1,6 +1,7 @@
 Online Student Management System
 
 Overview
+
 The Online Student Management System is a web-based application designed to manage student records.
 It provides a user-friendly interface to perform CRUD (Create, Read, Update, Delete) operations on student data using JSP, Servlets, and JDBC with MySQL for data storage.
 
