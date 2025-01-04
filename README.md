@@ -23,3 +23,7 @@ System Requirements
 *  Apache Tomcat Server 9
 *  MySQL Database - Version: MariaDB 10.4.32
 *  A web browser (Chrome or Firefox)
+
+Clone the repository
+
+https://github.com/NivithaGopal/Completed_MchineTEST/tree/main/StudentManagementSystem
