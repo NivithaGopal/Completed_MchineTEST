@@ -1,6 +1,7 @@
+Nivitha Gopal : Java 3 
+
 Online Student Management System
 
-Nivitha Gopal : Java full stack developer 
 
 Overview
 
