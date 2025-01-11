@@ -1,5 +1,7 @@
 Online Student Management System
 
+Nivitha Gopal : Java full stack developer 
+
 Overview
 
 The Online Student Management System is a web-based application designed to manage student records.
